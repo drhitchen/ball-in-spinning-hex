@@ -33,7 +33,7 @@ python ball-in-spinning-hex-1.py
 Replace the filename with any of the other script names to see different variations of the simulation.
 
 ## Controls
-- Press **ESC** or click the **close button** to exit the simulation.
+Click the **close button** to exit the simulation.
 
 ## File Structure
 ```
