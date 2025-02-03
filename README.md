@@ -15,8 +15,13 @@ This project consists of several Python programs that simulate bouncing balls in
 ## Requirements
 Ensure you have Python and Pygame installed before running the scripts.
 
-Install dependencies:
+## Setup Instructions
+Clone the repository and set up a virtual environment:
 ```sh
+git clone https://github.com/drhitchen/ball-in-spinning-hex.git
+cd ball-in-spinning-hex
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -47,4 +52,4 @@ Credit to Flavio Adamo on X for creating this.
 [Flavio Adamo](https://x.com/flavioAd/status/1885449107436679394)
 
 ## License
-This project is provided under an open-source license. Feel free to modify and distribute it as needed.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
